@@ -1,0 +1,37 @@
+_repo: The-Wonders-of-the-Invisible-World--13-Being-an-Account-of-the-Tryals-of-Several-Witches-Late__28513
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Mather, Cotton
+    alias: Mather, C. (Cotton)
+    birthdate: 1663
+    deathdate: 1728
+    gutenberg_agent_id: '33376'
+    url: http://www.gutenberg.org/2009/agents/33376
+    wikipedia: http://en.wikipedia.org/wiki/Cotton_Mather
+  - agent_name: Mather, Increase
+    birthdate: 1639
+    deathdate: 1723
+    gutenberg_agent_id: '33377'
+    url: http://www.gutenberg.org/2009/agents/33377
+    wikipedia: http://en.wikipedia.org/wiki/Increase_Mather
+description: ''
+gutenberg_issued: '2009-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28513'
+  lccn: '11009003'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Witchcraft -- New England -- Early works to 1800'
+- !lcc 'BF'
+title: "The Wonders of the Invisible World\r\nBeing an Account of the Tryals of Several\
+  \ Witches Lately Executed in New-England, to which is added A Farther Account of\
+  \ the Tryals of the New-England Witches"
+url: http://www.gutenberg.org/ebooks/28513
