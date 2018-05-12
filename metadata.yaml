@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33377
     wikipedia: http://en.wikipedia.org/wiki/Increase_Mather
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28513#The-Wonders-of-the-Invisible-World--13-Being-an-Account-of-the-Tryals-of-Several-Witches-Late_
 gutenberg_issued: '2009-04-06'
 gutenberg_type: Text
 identifiers:
